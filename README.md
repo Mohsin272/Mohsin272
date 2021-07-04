@@ -18,6 +18,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
+  ![Plesk](https://img.shields.io/badge/-Plesk-333333?style=flat&logo=plesk)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
