@@ -7,7 +7,8 @@
 - 🌏 &nbsp; Originally from Pakistan
 - 🌍 &nbsp; Currently in Ireland
 
-<h3> 👨🏻‍💻 &nbsp;Interests </h3>
+<h3 &nbsp;Interests </h3>
+
 - 🎵 Music
 - 🏏 Cricket
 - ⚽ Football
