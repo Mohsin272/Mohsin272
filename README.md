@@ -27,6 +27,7 @@
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
   ![Plesk](https://img.shields.io/badge/-Plesk-333333?style=flat&logo=plesk)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![cPanel](https://img.shields.io/badge/-cPanel-333333?style=flat&logo=cPanel)
 - 🛢 &nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
