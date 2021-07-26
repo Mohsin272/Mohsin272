@@ -42,7 +42,7 @@
 
 <a href="https://github.com/Mohsin272">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohsin272&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin272&theme=dark&layout=compact" />
+  <img height="180em" src="https://ionicabizau.github.io/github-profile-languages/api.html?Mohsin2" />
 </a>
 
 <br/>
@@ -53,6 +53,3 @@
 <a href="https://www.linkedin.com/in/mohsintahir0207/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohsin%20Tahir-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mohsintahir999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohsintahir999@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Mohsin272" frameborder="0"></iframe>
-
