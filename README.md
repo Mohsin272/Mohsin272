@@ -42,7 +42,7 @@
 
 <a href="https://github.com/Mohsin272">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohsin272&theme=dark&show_icons=true" />
-  <img height="180em" src="https://ionicabizau.github.io/github-profile-languages/api.html?Mohsin2" />
+  <img height="180em" src="https://ionicabizau.github.io/github-profile-languages/api.html?Mohsin272" />
 </a>
 
 <br/>
