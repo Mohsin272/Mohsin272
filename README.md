@@ -54,3 +54,5 @@
 <a href="mailto:mohsintahir999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohsintahir999@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Mohsin272" frameborder="0"></iframe>
+
