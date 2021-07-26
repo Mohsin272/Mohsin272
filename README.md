@@ -42,7 +42,7 @@
 
 <a href="https://github.com/Mohsin272">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohsin272&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin272&theme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin272&layout=compact&langs_count=8&hide_border=false&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" />
 </a>
 
 <br/>
