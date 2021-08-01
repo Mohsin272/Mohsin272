@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Mohsin 👋</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻  &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Bachelor of Science (Honours) Software Development in IT Carlow.
 - 📚 &nbsp; Year 3
