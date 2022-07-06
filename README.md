@@ -27,6 +27,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
   ![Plesk](https://img.shields.io/badge/-Plesk-333333?style=flat&logo=plesk)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
