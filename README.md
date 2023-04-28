@@ -57,6 +57,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin272&theme=chartreuse-dark&layout=compact" />
 </a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Mohsin272&color=blueviolet&style=flat)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohsin272&theme=dark)](https://git.io/streak-stats)
+
+
 ## 🤝 Connect with Me
 
 <p align="center">
