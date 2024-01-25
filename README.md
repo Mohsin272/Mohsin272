@@ -2,8 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm currently pursuing a Bachelor of Science (Honours) in Software Development at IT Carlow.
-- 📚 In my final year (Year 4)
+- 🎓 First Class Graduate in Software Development.
 - 🌏 Born and raised in Pakistan
 - 🌍 Living and studying in Ireland
 
